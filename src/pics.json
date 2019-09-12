@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "monstera",
+      "image": "https://images.unsplash.com/photo-1510505751526-76254482fd38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=651&q=80"
+      
+    },
+    {
+      "id": 2,
+      "name": "orchid",
+      "image": "https://images.unsplash.com/photo-1548014251-6c4f4b6055d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80"
+      
+    },
+    {
+      "id": 3,
+      "name": "succulent",
+      "image": "https://images.unsplash.com/photo-1509587584298-0f3b3a3a1797?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=657&q=80"
+      
+    },
+    {
+      "id": 4,
+      "name": "bonsai",
+      "image": "https://images.unsplash.com/photo-1526397751294-331021109fbd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"
+      
+    },
+    {
+      "id": 5,
+      "name": "snake plant",
+      "image": "https://images.unsplash.com/photo-1563419837758-e48ef1b731dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80"
+      
+    },
+    {
+      "id": 6,
+      "name": "string of pearls",
+      "image": "https://images.unsplash.com/photo-1536846826492-c51b3984bc96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80"
+      
+    },
+    {
+      "id": 7,
+      "name": "rubber plant",
+      "image": "https://images.unsplash.com/photo-1545871700-697b9014c5bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80"
+      
+    },
+    {
+      "id": 8,
+      "name": "fiddle leaf fig",
+      "image": "https://images.unsplash.com/photo-1453904300235-0f2f60b15b5d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80"
+    },
+    {
+      "id": 9,
+      "name": "plant 9",
+      "image": "https://images.unsplash.com/photo-1562351757-66f3589f30cf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80"
+    },
+    {
+      "id": 10,
+      "name": "terrarium",
+      "image": "https://images.unsplash.com/photo-1416339411116-62e1226aacd8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80"
+      
+    },
+    {
+      "id": 11,
+      "name": "basil",
+      "image": "https://images.unsplash.com/photo-1515471033351-f7a31fc10abe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80"
+     
+    },
+    {
+      "id": 12,
+      "name": "pothos",
+      "image": "https://images.unsplash.com/photo-1537039557108-4a42c334fd5e?ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80"
+     
+    }
+  ]
+  
