@@ -14,9 +14,4 @@ Then, run npm start
 
 # Tech
 
-React 
-
-
-
-
-![](./images/memory-garden.png)
+React.js 
