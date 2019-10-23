@@ -20,7 +20,6 @@ function Banner (props){
       </ul>
     </nav>
   );
-
-}
+};
 
 export default Banner;

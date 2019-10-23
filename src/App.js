@@ -29,7 +29,7 @@ class App extends Component {
 
     if(this.state.score>this.state.highScore){
       this.setState({highScore: this.state.score})
-    }
+    };
 
     const picsCopy = [...this.state.pics];
     picsCopy.sort(() => Math.random() - 0.5);
